@@ -4,7 +4,7 @@ Bem-vindo ao repositório **ProjectsHTMLCSS**! Este repositório contém projeto
 
 ## Projetos
 
-### 1. [CatPhotoApp 🐱](link-para-repositorio)
+### 1. [CatPhotoApp 🐱](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/Site_GatinhosHTML)
 
 Este projeto é um site simples de fotos de gatinhos, criado como parte de um desafio do FreeCodeCamp. O site foi feito inteiramente em HTML, sem o uso de outras tecnologias, e apresenta várias seções interativas relacionadas a gatos.
 
@@ -22,13 +22,13 @@ Este projeto é um site simples de fotos de gatinhos, criado como parte de um de
 - Explore as diferentes seções do site, veja as fotos e interaja com o formulário.
 
 **Anotações:**
-- Para ver as [Anotações_HTML](link-para-anotacoes-html) feitas durante o aprendizado deste projeto, clique no link.
-- Veja também o [PDF do Site](link-para-pdf) que mostra como o site fica visualmente.
+- Para ver as [Anotações_HTML](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/Site_GatinhosHTML/Anota%C3%A7%C3%B5es_HTML.md) feitas durante o aprendizado deste projeto, clique no link.
+- Veja também o [PDF do Site](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/Site_GatinhosHTML/SiteDeGatinhosPdf.pdf) que mostra como o site fica visualmente.
 
 **Créditos:**
 - Este projeto foi inspirado e proposto pelo FreeCodeCamp.
 
-### 2. [Cafe Menu ☕](link-para-repositorio)
+### 2. [Cafe Menu ☕](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/MenuCoffeeHTML_CSS)
 
 Este projeto é um menu de café, também criado como parte de um desafio do FreeCodeCamp. O menu foi desenvolvido utilizando HTML e CSS, com um foco na criação de uma interface atraente e funcional para um café fictício.
 
@@ -47,8 +47,8 @@ Este projeto é um menu de café, também criado como parte de um desafio do Fre
 - Veja o estilo aplicado no arquivo `styles.css` e explore o menu.
 
 **Anotações:**
-- Para ver as [Anotações_CSS](link-para-anotacoes-css) feitas durante o aprendizado deste projeto, clique no link.
-- Veja também o [PDF do Menu](link-para-pdf) que mostra como o menu ficou visualmente.
+- Para ver as [Anotações_CSS](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/MenuCoffeeHTML_CSS/Anota%C3%A7%C3%B5es_CSS.md) feitas durante o aprendizado deste projeto, clique no link.
+- Veja também o [PDF do Menu](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/MenuCoffeeHTML_CSS/Cafe%20Menu.pdf) que mostra como o menu ficou visualmente.
 
 **Créditos:**
 - Este projeto foi inspirado e proposto pelo FreeCodeCamp.
