@@ -62,6 +62,3 @@ Neste repositório, você encontrará projetos que refletem minhas experiências
 
 Os desafios propostos pelo FreeCodeCamp foram fundamentais para o meu aprendizado, fornecendo uma base sólida e prática em HTML e CSS. Esses projetos são uma prova do que foi aprendido e uma demonstração do meu crescimento como desenvolvedor frontend.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](link-para-licenca), o que permite a você usar, modificar e distribuir o código livremente, desde que atribua o crédito adequado e mantenha a licença original.
