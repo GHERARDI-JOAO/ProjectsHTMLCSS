@@ -53,6 +53,29 @@ Este projeto é um menu de café, também criado como parte de um desafio do Fre
 **Créditos:**
 - Este projeto foi inspirado e proposto pelo FreeCodeCamp.
 
+### 3. [Colored Markers 🖍️](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/markersColors)
+
+Este projeto apresenta três marcadores coloridos (vermelho, verde e azul) criados com HTML e CSS, utilizando gradientes e sombras para simular canetas coloridas.
+
+**Funcionalidades:**
+- Criação de três marcadores coloridos utilizando gradientes de cores no CSS.
+- Efeitos visuais com sombras e transições de cores para simular a aparência de marcadores.
+
+**Tecnologias Utilizadas:**
+- HTML: Estruturação básica da página.
+- CSS: Estilização avançada com gradientes e sombras.
+
+**Como Usar:**
+- Clone ou faça o download deste repositório.
+- Abra o arquivo `markers.html` em seu navegador.
+- Explore o estilo aplicado no arquivo `markers.css` e veja o efeito visual dos marcadores coloridos.
+
+**Anotações:**
+- Para ver as [AnotaçõesColors.md](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/markersColors/Anota%C3%A7%C3%B5esColors.md) feitas durante o aprendizado deste projeto, clique no link.
+- Veja também o [PDF do Projeto](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/markersColors/Colored%20Markers.pdf) que mostra como os marcadores coloridos ficaram visualmente.
+
+---
+
 ## Estudos em Frontend e Web Design
 
 Neste repositório, você encontrará projetos que refletem minhas experiências e estudos na área de frontend e web design. Durante o desenvolvimento desses projetos, aprendi e pratiquei diversas técnicas e conceitos essenciais, incluindo:
@@ -61,4 +84,3 @@ Neste repositório, você encontrará projetos que refletem minhas experiências
 - **CSS**: Estilização de elementos, design responsivo, e criação de interfaces visuais atraentes.
 
 Os desafios propostos pelo FreeCodeCamp foram fundamentais para o meu aprendizado, fornecendo uma base sólida e prática em HTML e CSS. Esses projetos são uma prova do que foi aprendido e uma demonstração do meu crescimento como desenvolvedor frontend.
-
