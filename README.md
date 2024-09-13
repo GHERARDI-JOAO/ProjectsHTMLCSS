@@ -121,7 +121,7 @@ Este projeto é um **Formulário de Pesquisa** desenvolvido em HTML e CSS, sendo
 
 **Como Usar:**
 - Clone ou faça o download deste repositório.
-- Abra o arquivo `survey-form.html` em seu navegador.
+- Abra o arquivo `survey.html` em seu navegador.
 - Preencha os campos e clique em "Enviar" para submeter suas respostas fictícias.
 
 **Estilo Visual:**
