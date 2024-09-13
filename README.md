@@ -125,7 +125,7 @@ Este projeto é um **Formulário de Pesquisa** desenvolvido em HTML e CSS, sendo
 - Preencha os campos e clique em "Enviar" para submeter suas respostas fictícias.
 
 **Estilo Visual:**
-O estilo do formulário foi criado para ser elegante e moderno, utilizando um fundo em gradiente e uma imagem que simula textura de madeira. O resultado visual do projeto pode ser visto no arquivo [PNG do Formulário](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/FormularioPesquisa/FormularioPesquisa.png) incluído neste repositório.
+O estilo do formulário foi criado para ser elegante e moderno, utilizando um fundo em gradiente e uma imagem que simula textura de madeira. O resultado visual do projeto pode ser visto no arquivo [PNG do Formulário](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/FormularioPesquisa/formularioPesquisa.png) incluído neste repositório.
 
 **Créditos:**
 - Este projeto foi parte do curso do FreeCodeCamp e totalmente desenvolvido por mim para a certificação de **Responsive Web Design**.
