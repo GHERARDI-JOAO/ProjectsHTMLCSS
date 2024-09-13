@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey form</title>
+    <link rel="stylesheet" href="survey.css"/>
+</head>
+<body>
+  <h1 id="title"> Formulário de Pesquisa </h1>
+  <p id="description"> Ajude-nos a melhorar nosso negócio em um rápido formulário de pesquisa</p>
+
+<form method="post" id="survey-form">
+  <fieldset>
+  <label id="name-label" for="name-label">Seu Nome: <input placeholder="Insira seu nome" id="name" name="name" type="text" required /></label>
+  <label id="email-label" for="email-label">Seu Email: <input placeholder="Insira seu email" id="email" name="email" type="email" required /></label>  
+    <label id="number-label" for="number-label">Sua Idade: <input placeholder="Insira sua idade" id="number" name="number" min="13" max="125" type="number" required /></label>
+    </fieldset>
+
+    <fieldset>
+    <label for="carreira">Qual sua profissão atualmente?
+      <select id="dropdown">
+        <option value="">(selecione um)</option>
+        <option value="1">Programador Júnior</option>
+        <option value="2">Programador Pleno</option>
+        <option value="3">Programador Sénior</option>
+        <option value="4">Estudante</option>
+        <option value="5">other</option>
+        </select>
+      </fieldset>
+    
+    <fieldset>
+        <legend>Você recomendaria nossos produtos?</legend>
+        <label for="definitivamente"><input id="definitivo" type="radio" value="1" name="recomenda" class="inline" checked /> Definitivamente</label>
+        <label for="talvez"><input id="talvez" type="radio" value="2" name="recomenda" class="inline" /> Talvez</label>
+        <label for="não"><input id="não" type="radio" value="3" name="recomenda" class="inline"  /> Não</label>
+      </fieldset>
+
+      <fieldset>
+        <legend>O que você mais gostaria de aprender?
+        <label for="Backend">
+        <input class="inline" id="backend" type="checkbox" required name="backend" value="1" /> Backend</label>
+        <label for="frontend">
+        <input class="inline" id="backend" type="checkbox" required name="frontend" value="2" /> Frontend</label>
+        <label for="fullstack">
+        <input class="inline" id="backend" type="checkbox" required name="frontend" value="3" /> Fullstack</label>
+        <label for="dados">
+        <input class="inline" id="backend" type="checkbox" required name="dados" value="4" /> Análise de dados</label>
+        </fieldset>
+
+          <label>Mande-nos aqui suas críticas, dúvidas ou perguntas <textarea></textarea></label>
+      </fieldset>
+      <fieldset>
+         <input id="submit" type="submit" value="Enviar" />
+      </fieldset>
+</form>
+</body>
+</html>
