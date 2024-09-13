@@ -1,6 +1,10 @@
+Aqui está o README atualizado com a inclusão do novo projeto:
+
+---
+
 # ProjectsHTMLCSS
 
-Bem-vindo ao repositório **ProjectsHTMLCSS**! Este repositório contém projetos de frontend e web design que desenvolvi como parte dos meus estudos e desafios do FreeCodeCamp. Cada projeto é uma demonstração prática das habilidades adquiridas em HTML e CSS, e reflete o meu progresso na criação de sites bonitos e funcionais.
+Bem-vindo ao repositório **ProjectsHTMLCSS**! Este repositório contém projetos de frontend e web design que desenvolvi como parte dos meus estudos e desafios do FreeCodeCamp. Cada projeto é uma demonstração prática das habilidades adquiridas em HTML e CSS e reflete o meu progresso na criação de sites bonitos e funcionais.
 
 ## Projetos
 
@@ -74,6 +78,33 @@ Este projeto apresenta três marcadores coloridos (vermelho, verde e azul) criad
 - Para ver as [AnotaçõesColors.md](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/markersColors/Anota%C3%A7%C3%B5esColors.md) feitas durante o aprendizado deste projeto, clique no link.
 - Veja também o [PDF do Projeto](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/markersColors/Colored%20Markers.pdf) que mostra como os marcadores coloridos ficaram visualmente.
 
+### 4. [Formulário de Registro 📝](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/RegistrationForm)
+
+Este projeto é um formulário de registro desenvolvido em HTML e CSS. Ele permite que os usuários preencham informações pessoais e enviem um formulário fictício, incluindo a criação de uma senha, upload de foto de perfil e preenchimento de uma biografia.
+
+**Funcionalidades:**
+- Campos para Nome, Sobrenome, E-mail e Senha.
+- Opção de selecionar o tipo de conta (Pessoal ou Comercial).
+- Upload de Foto de Perfil.
+- Campo para Idade e seleção de como conheceu o site.
+- Biografia e aceitação dos termos e condições.
+
+**Tecnologias Utilizadas:**
+- HTML: Estruturação do formulário.
+- CSS: Estilização e layout responsivo.
+
+**Como Usar:**
+- Clone ou faça o download deste repositório.
+- Abra o arquivo `formulario.html` em seu navegador.
+- Preencha os campos e clique no botão "Submit" para testar a funcionalidade.
+
+**Anotações:**
+- Para ver as [Anotações do Formulário](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/RegistrationForm/Anota%C3%A7%C3%B5esFormulario.md) feitas durante o aprendizado deste projeto, clique no link.
+- Veja também o [PDF do Formulário](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/RegistrationForm/RegistrationForm.pdf) que mostra como o formulário ficou visualmente.
+
+**Créditos:**
+- Este projeto foi inspirado e proposto pelo FreeCodeCamp.
+
 ---
 
 ## Estudos em Frontend e Web Design
@@ -84,3 +115,5 @@ Neste repositório, você encontrará projetos que refletem minhas experiências
 - **CSS**: Estilização de elementos, design responsivo, e criação de interfaces visuais atraentes.
 
 Os desafios propostos pelo FreeCodeCamp foram fundamentais para o meu aprendizado, fornecendo uma base sólida e prática em HTML e CSS. Esses projetos são uma prova do que foi aprendido e uma demonstração do meu crescimento como desenvolvedor frontend.
+
+---
