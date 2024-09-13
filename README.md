@@ -50,7 +50,7 @@ Este projeto é um menu de café, também criado como parte de um desafio do Fre
 
 **Anotações:**
 - Para ver as [Anotações_CSS](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/MenuCoffeeHTML_CSS/Anota%C3%A7%C3%B5es_CSS.md) feitas durante o aprendizado deste projeto, clique no link.
-- Veja também o [PDF do Menu](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/MenuCoffeeHTML_CSS/Cafe%20Menu.pdf) que mostra como o menu ficou visualmente.
+- Veja também o [PNG do Menu](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/MenuCoffeeHTML_CSS/Cafe%20Menu.png) que mostra como o menu ficou visualmente.
 
 **Créditos:**
 - Este projeto foi inspirado e proposto pelo FreeCodeCamp.
