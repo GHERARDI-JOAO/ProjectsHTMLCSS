@@ -1,6 +1,4 @@
-Aqui está o README atualizado com a inclusão do novo projeto:
 
----
 
 # ProjectsHTMLCSS
 
