@@ -103,7 +103,30 @@ Este projeto é um formulário de registro desenvolvido em HTML e CSS. Ele permi
 **Créditos:**
 - Este projeto foi inspirado e proposto pelo FreeCodeCamp.
 
----
+### 5. [Pintura Rothko 🎨](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/rothko)
+
+Este projeto é uma representação de uma pintura inspirada em Mark Rothko, utilizando HTML e CSS. O projeto foca na criação de uma composição abstrata com blocos de cores, aplicando efeitos de sombra, rotação e desfoque para simular o estilo visual de Rothko.
+
+**Funcionalidades:**
+- Blocos de cores sobrepostos com leves rotações e sombras.
+- Filtro de desfoque para criar uma aparência abstrata.
+- Estilização minimalista com foco em efeitos visuais.
+
+**Tecnologias Utilizadas:**
+- HTML: Estruturação da página com divisões em blocos.
+- CSS: Estilização avançada com filtros, sombras e transformações.
+
+**Como Usar:**
+- Clone ou faça o download deste repositório.
+- Abra o arquivo `rothkoPainting.html` em seu navegador.
+- Veja o estilo aplicado no arquivo `roth.css` e explore o design abstrato.
+
+**Anotações:**
+- Para ver as [AnotaçõesRothko.md](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/rothko/Anota%C3%A7%C3%B5esRothko.md) feitas durante o aprendizado deste projeto, clique no link.
+- Veja também o [PNG da Pintura](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/rothko/rothko.png) que mostra como a pintura ficou visualmente.
+
+**Créditos:**
+- Este projeto foi inspirado no estilo visual de Mark Rothko.
 
 ## Estudos em Frontend e Web Design
 
