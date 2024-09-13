@@ -23,7 +23,7 @@ Este é um projeto de um menu para um café, criado como parte de um desafio pro
 
 Para ver as anotações feitas durante o aprendizado deste projeto, clique no [link para o arquivo de anotações](Anotações_CSS.md). Essas anotações contêm observações e detalhes sobre o que foi aprendido ao fazer o projeto.
 
-Veja também o [PDF do Menu](Cafe%20Menu.pdf) que mostra como o menu ficou visualmente.
+Veja também o [PNG do Menu](Cafe%20Menu.png) que mostra como o menu ficou visualmente.
 
 ## Créditos
 
