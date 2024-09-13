@@ -99,8 +99,8 @@ Este projeto é um formulário de registro desenvolvido em HTML e CSS. Ele permi
 - Preencha os campos e clique no botão "Submit" para testar a funcionalidade.
 
 **Anotações:**
-- Para ver as [Anotações do Formulário](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/RegistrationForm/Anota%C3%A7%C3%B5esFormulario.md) feitas durante o aprendizado deste projeto, clique no link.
-- Veja também o [PDF do Formulário](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/RegistrationForm/RegistrationForm.pdf) que mostra como o formulário ficou visualmente.
+- Para ver as [Anotações do Formulário](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/formulario/Anota%C3%A7%C3%B5esFormulario.md) feitas durante o aprendizado deste projeto, clique no link.
+- Veja também o [PDF do Formulário](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/formulario/RegistrationForm.pdf) que mostra como o formulário ficou visualmente.
 
 **Créditos:**
 - Este projeto foi inspirado e proposto pelo FreeCodeCamp.
