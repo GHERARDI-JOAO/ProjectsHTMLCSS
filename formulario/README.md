@@ -40,7 +40,7 @@ O arquivo de estilos (`formulario.css`) define o layout e a aparência do formul
 
 Para ver o formulário finalizado, consulte o arquivo PDF abaixo, que contém capturas de tela do projeto:
 
-- [Visualização do Formulário](./RegistrationForm.pdf)
+- [Visualização do Formulário](./RegistrationForm.png)
 
 ## Notas e Estudos
 
