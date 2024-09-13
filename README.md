@@ -78,7 +78,7 @@ Este projeto apresenta três marcadores coloridos (vermelho, verde e azul) criad
 - Para ver as [AnotaçõesColors.md](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/markersColors/Anota%C3%A7%C3%B5esColors.md) feitas durante o aprendizado deste projeto, clique no link.
 - Veja também o [PDF do Projeto](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/markersColors/Colored%20Markers.pdf) que mostra como os marcadores coloridos ficaram visualmente.
 
-### 4. [Formulário de Registro 📝](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/RegistrationForm)
+### 4. [Formulário de Registro 📝](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/formulario)
 
 Este projeto é um formulário de registro desenvolvido em HTML e CSS. Ele permite que os usuários preencham informações pessoais e enviem um formulário fictício, incluindo a criação de uma senha, upload de foto de perfil e preenchimento de uma biografia.
 
