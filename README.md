@@ -175,8 +175,8 @@ Este projeto é uma galeria de fotos utilizando Flexbox, desenvolvido como parte
 - Veja o estilo aplicado no arquivo `gallery.css` e explore a galeria de fotos.
 
 **Anotações:**
-- Para ver as [Anotações Flexbox](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/FlexboxGallery/anota%C3%A7%C3%B5esFlexboxGallery.md) feitas durante o aprendizado deste projeto, clique no link.
-- Veja também a [Visualização da Galeria](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/FlexboxGallery/flexboxGallery.png) para conferir como ficou o layout.
+- Para ver as [Anotações Flexbox](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/PhotoGallery/anota%C3%A7%C3%B5esFlexboxGallery.md) feitas durante o aprendizado deste projeto, clique no link.
+- Veja também a [Visualização da Galeria](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/PhotoGallery/flexboxGallery.png) para conferir como ficou o layout.
 
 **Créditos:**
 - Este projeto foi inspirado por desafios propostos pelo FreeCodeCamp.
