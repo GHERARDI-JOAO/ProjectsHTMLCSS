@@ -156,6 +156,32 @@ Este projeto é uma representação de uma pintura inspirada em Mark Rothko, uti
 **Créditos:**
 - Este projeto foi inspirado no estilo visual de Mark Rothko.
 
+### 7. [Flexbox Photo Gallery 📸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/FlexboxGallery)
+
+Este projeto é uma galeria de fotos utilizando Flexbox, desenvolvido como parte dos meus estudos em CSS. A galeria foi criada para demonstrar a organização e responsividade de imagens através do uso de Flexbox, mantendo o layout flexível e adaptável.
+
+**Funcionalidades:**
+- Exibição de uma galeria com múltiplas imagens.
+- Layout responsivo, ajustando automaticamente as imagens de acordo com o tamanho da tela.
+- Imagens redimensionadas proporcionalmente, sem distorção, usando `object-fit`.
+
+**Tecnologias Utilizadas:**
+- **HTML**: Estruturação do conteúdo e organização da galeria de fotos.
+- **CSS (Flexbox)**: Estilização e disposição flexível dos elementos da galeria.
+
+**Como Usar:**
+- Clone ou faça o download deste repositório.
+- Abra o arquivo `gallery.html` em seu navegador.
+- Veja o estilo aplicado no arquivo `gallery.css` e explore a galeria de fotos.
+
+**Anotações:**
+- Para ver as [Anotações Flexbox](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/FlexboxGallery/anota%C3%A7%C3%B5esFlexboxGallery.md) feitas durante o aprendizado deste projeto, clique no link.
+- Veja também a [Visualização da Galeria](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/FlexboxGallery/flexboxGallery.png) para conferir como ficou o layout.
+
+**Créditos:**
+- Este projeto foi inspirado por desafios propostos pelo FreeCodeCamp.
+
+
 ## Estudos em Frontend e Web Design
 
 Neste repositório, você encontrará projetos que refletem minhas experiências e estudos na área de frontend e web design. Durante o desenvolvimento desses projetos, aprendi e pratiquei diversas técnicas e conceitos essenciais, incluindo:
