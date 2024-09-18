@@ -6,7 +6,7 @@ Este é um projeto de prática para o quiz de acessibilidade proposto pelo freeC
 
 O projeto inclui um formulário de quiz dividido em três seções principais:
 1. **Informações do Estudante**: Coleta informações básicas do usuário, como nome, e-mail e data de nascimento.
-2. **Perguntas de HTML**: Contém perguntas sobre conceitos fundamentais de HTML, com respostas de múltipla escolha. Você pode ver visualmente como ficou o projeto consultando o arquivo [quiz.pdf](path/to/quiz.pdf).
+2. **Perguntas de HTML**: Contém perguntas sobre conceitos fundamentais de HTML, com respostas de múltipla escolha. Você pode ver visualmente como ficou o projeto consultando o arquivo [quiz.pdf](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/HTMLCSS_QUIZ/quiz.png).
 3. **Perguntas de CSS**: Inclui perguntas sobre CSS, além de um campo para os usuários fazerem perguntas adicionais.
 
 ## Estrutura do Projeto
@@ -44,6 +44,3 @@ Este projeto enfatiza a acessibilidade, utilizando práticas recomendadas, como:
 
 Se você deseja contribuir para este projeto, sinta-se à vontade para enviar um pull request. Agradecemos qualquer feedback ou sugestão para melhorar a acessibilidade e a funcionalidade do formulário.
 
----
-
-Substitua `path/to/quiz.pdf` pelo caminho correto onde o PDF está armazenado. Se precisar de mais alguma alteração, é só avisar!
