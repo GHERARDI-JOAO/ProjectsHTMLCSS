@@ -181,6 +181,35 @@ Este projeto é uma galeria de fotos utilizando Flexbox, desenvolvido como parte
 **Créditos:**
 - Este projeto foi inspirado por desafios propostos pelo FreeCodeCamp.
 
+Aqui está um README para o projeto da banda Silver Jews no estilo solicitado:
+
+---
+
+### 7. [Tributo à Banda Silver Jews 🎸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/SilverJews)
+
+Este projeto é uma página de tributo à banda Silver Jews, criada como parte dos requisitos para a certificação em Web Design Responsivo do freeCodeCamp. A construção deste projeto não só foi essencial para a certificação, mas também me permitiu exercer um maior controle criativo e personalização, refletindo a minha própria visão e estilo no design da página.
+
+**Funcionalidades:**
+- Exibição de informações sobre a banda, incluindo biografia, discografia e um tributo a David Berman.
+- Layout responsivo, adaptando-se a diferentes tamanhos de tela para uma melhor visualização em dispositivos móveis e desktop.
+- Design minimalista que destaca o conteúdo e as imagens da banda.
+
+**Tecnologias Utilizadas:**
+- **HTML**: Estruturação do conteúdo e organização das informações sobre a banda.
+- **CSS**: Estilização e layout da página com um design limpo e focado no conteúdo.
+- **Google Fonts**: Uso da fonte *Fira Code* para manter um estilo tipográfico moderno e limpo.
+
+**Como Usar:**
+- Clone ou faça o download deste repositório.
+- Abra o arquivo `SilverJews.html` em seu navegador.
+- Veja o estilo aplicado no arquivo `SilverJews.css` e explore a página de tributo.
+
+**Visualização:**
+- Para ver a [Visualização do Projeto](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/tributePage/Silver%20Jews.pdf) e conferir como ficou o layout, clique no link.
+
+**Créditos:**
+- Este projeto foi inspirado por desafios propostos pelo FreeCodeCamp e homenageia uma das minhas bandas favoritas, Silver Jews.
+
 
 ## Estudos em Frontend e Web Design
 
