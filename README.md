@@ -208,8 +208,6 @@ Este projeto é uma página de tributo à banda Silver Jews, criada como parte d
 **Créditos:**
 - Este projeto foi inspirado por desafios propostos pelo FreeCodeCamp e homenageia uma das minhas bandas favoritas, Silver Jews.
 
----
-
 ## Estudos em Frontend e Web Design
 
 Neste repositório, você encontrará projetos que refletem minhas experiências e estudos na área de frontend e web design. Durante o desenvolvimento desses projetos, aprendi e pratiquei diversas técnicas e conceitos essenciais, incluindo:
