@@ -1,3 +1,4 @@
+
 # Tributo à Banda Silver Jews
 
 Este é um projeto criado como parte do currículo do [freeCodeCamp](https://www.freecodecamp.org/), sendo um dos projetos específicos para a obtenção da Certificação em Desenvolvimento Web Responsivo. O desafio consiste em construir uma página de tributo que seja funcionalmente semelhante à página de exemplo fornecida, mas sem copiar diretamente o projeto demonstrativo. Decidi fazer a minha página de tributo sobre uma das minhas bandas favoritas, **Silver Jews**.
@@ -30,7 +31,11 @@ A página de tributo foi desenvolvida com HTML e CSS e apresenta informações s
 
 ## Como Visualizar
 
-Para visualizar o projeto em seu navegador, basta clonar este repositório e abrir o arquivo `SilveJews.html`. A página foi projetada para ser responsiva, adaptando-se a diferentes tamanhos de tela.
+Para visualizar o projeto em seu navegador, basta clonar este repositório e abrir o arquivo `SilverJews.html`. A página foi projetada para ser responsiva, adaptando-se a diferentes tamanhos de tela.
+
+## Exemplos Visuais
+
+Para ver visualmente como ficou o projeto, você pode consultar o arquivo PDF de demonstração [Silver Jews.pdf](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/tributePage/Silver%20Jews.pdf).
 
 ## Próximos Passos
 
@@ -38,5 +43,4 @@ Embora o projeto cumpra todos os requisitos do desafio do freeCodeCamp, planejo 
 
 ## Considerações Finais
 
-Este projeto foi uma maneira especial de homenagear uma das minhas bandas favoritas. Silver Jews foi uma banda singular no mundo do indie rock, e espero que esta página de tributo faça jus ao legado de David Berman e seus colegas de banda. 
-
+Este projeto foi uma maneira especial de homenagear uma das minhas bandas favoritas. Silver Jews foi uma banda singular no mundo do indie rock, e espero que esta página de tributo faça jus ao legado de David Berman e seus colegas de banda.
