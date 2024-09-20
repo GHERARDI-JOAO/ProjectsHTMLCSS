@@ -183,7 +183,7 @@ Este projeto é uma galeria de fotos utilizando Flexbox, desenvolvido como parte
 
 Aqui está um README para o projeto da banda Silver Jews no estilo solicitado:
 
-### 7. [Tributo à Banda Silver Jews 🎸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/SilverJews)
+### 8. [Tributo à Banda Silver Jews 🎸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/SilverJews)
 
 Este projeto é uma página de tributo à banda Silver Jews, criada como parte dos requisitos para a certificação em Web Design Responsivo do freeCodeCamp. A construção deste projeto não só foi essencial para a certificação, mas também me permitiu exercer um maior controle criativo e personalização, refletindo a minha própria visão e estilo no design da página.
 
@@ -207,6 +207,30 @@ Este projeto é uma página de tributo à banda Silver Jews, criada como parte d
 
 **Créditos:**
 - Este projeto foi inspirado por desafios propostos pelo FreeCodeCamp e homenageia uma das minhas bandas favoritas, Silver Jews.
+
+  ### 9. [Posicionamento CSS: Pintura de Gato 🐱](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/CatPainting)
+
+Este projeto faz parte de um exercício prático de posicionamento de elementos utilizando CSS. O objetivo foi criar uma representação visual da cabeça de um gato, explorando diferentes valores da propriedade `position` e como ela influencia o layout dos elementos na página.
+
+**Funcionalidades:**
+- Criação de uma representação estilizada da cabeça de um gato usando apenas `divs` e CSS.
+- Utilização das propriedades `position`, `top`, `left`, `right`, e `bottom` para mover e posicionar os elementos com precisão.
+- Manipulação visual da estrutura do gato, incluindo cabeça, olhos, orelhas, nariz, boca e bigodes.
+
+**Tecnologias Utilizadas:**
+- **HTML**: Estruturação básica dos elementos que compõem a cabeça do gato.
+- **CSS**: Aplicação do estilo e posicionamento dos elementos, utilizando diferentes valores da propriedade `position` (`absolute`, `relative`, `static`).
+
+**Como Usar:**
+- Clone ou faça o download deste repositório.
+- Abra o arquivo `CatPainting.html` em seu navegador.
+- Veja o estilo aplicado no arquivo `cat_painting.css` para entender como os elementos são posicionados e organizados.
+
+**Visualização:**
+- Para ver a [Visualização do Projeto](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/CatPainting/gatin.png) e conferir como ficou o layout final, clique no link.
+
+**Créditos:**
+- Este projeto foi inspirado por desafios de posicionamento propostos pelo FreeCodeCamp, e demonstra como pequenas mudanças nas propriedades de layout podem impactar a organização visual de elementos em uma página.
 
 ## Estudos em Frontend e Web Design
 
