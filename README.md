@@ -181,8 +181,6 @@ Este projeto é uma galeria de fotos utilizando Flexbox, desenvolvido como parte
 **Créditos:**
 - Este projeto foi inspirado por desafios propostos pelo FreeCodeCamp.
 
-Aqui está um README para o projeto da banda Silver Jews no estilo solicitado:
-
 ### 8. [Tributo à Banda Silver Jews 🎸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/SilverJews)
 
 Este projeto é uma página de tributo à banda Silver Jews, criada como parte dos requisitos para a certificação em Web Design Responsivo do freeCodeCamp. A construção deste projeto não só foi essencial para a certificação, mas também me permitiu exercer um maior controle criativo e personalização, refletindo a minha própria visão e estilo no design da página.
