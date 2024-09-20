@@ -206,7 +206,7 @@ Este projeto é uma página de tributo à banda Silver Jews, criada como parte d
 **Créditos:**
 - Este projeto foi inspirado por desafios propostos pelo FreeCodeCamp e homenageia uma das minhas bandas favoritas, Silver Jews.
 
-  ### 9. [Posicionamento CSS: Pintura de Gato 🐱](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/CatPainting)
+### 9. [Posicionamento CSS: Pintura de Gato 🐱](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/CatPainting)
 
 Este projeto faz parte de um exercício prático de posicionamento de elementos utilizando CSS. O objetivo foi criar uma representação visual da cabeça de um gato, explorando diferentes valores da propriedade `position` e como ela influencia o layout dos elementos na página.
 
