@@ -232,9 +232,7 @@ Este projeto faz parte de um exercício prático de posicionamento de elementos 
 
   Aqui está o README com um emoji:
 
----
-
-### 10 [Magazine Webpage 📰](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/Magazine_Project)
+### 10. [Magazine Webpage 📰](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/webMagazine)
 
 Este projeto faz parte de um exercício prático de desenvolvimento web utilizando **HTML** e **CSS**. O objetivo foi criar uma página no estilo de uma revista digital, com conteúdo interativo e layout responsivo, destacando um artigo sobre o currículo do freeCodeCamp.
 
@@ -258,7 +256,6 @@ Este projeto faz parte de um exercício prático de desenvolvimento web utilizan
 
 **Créditos:**
 - Este projeto foi inspirado pelos desafios propostos pelo freeCodeCamp, uma plataforma de aprendizado de programação, e destaca como combinar **HTML** e **CSS** para criar layouts estilizados e responsivos.
-
 
 ## Estudos em Frontend e Web Design
 
