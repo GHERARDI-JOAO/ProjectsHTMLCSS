@@ -230,6 +230,36 @@ Este projeto faz parte de um exercício prático de posicionamento de elementos 
 **Créditos:**
 - Este projeto foi inspirado por desafios de posicionamento propostos pelo FreeCodeCamp, e demonstra como pequenas mudanças nas propriedades de layout podem impactar a organização visual de elementos em uma página.
 
+  Aqui está o README com um emoji:
+
+---
+
+### 10 [Magazine Webpage 📰](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/Magazine_Project)
+
+Este projeto faz parte de um exercício prático de desenvolvimento web utilizando **HTML** e **CSS**. O objetivo foi criar uma página no estilo de uma revista digital, com conteúdo interativo e layout responsivo, destacando um artigo sobre o currículo do freeCodeCamp.
+
+**Funcionalidades:**
+- Criação de uma página de artigo no estilo de uma revista, com imagens e seções de texto bem definidas.
+- Uso de fontes customizadas e ícones de redes sociais para aprimorar a aparência.
+- Implementação de um layout responsivo que se adapta a diferentes tamanhos de tela.
+- Otimização de performance com o carregamento preguiçoso de imagens.
+
+**Tecnologias Utilizadas:**
+- **HTML**: Estruturação da página com seções de cabeçalho, corpo de texto e rodapé.
+- **CSS**: Aplicação de estilo para fontes, cores e layout, garantindo a responsividade do design.
+
+**Como Usar:**
+- Clone ou faça o download deste repositório.
+- Abra o arquivo `webMagazine.html` em seu navegador para visualizar a página da revista.
+- O arquivo `webMagazine.css` contém as regras de estilo que aplicam o design da página.
+
+**Visualização:**
+- Para ver a [Visualização do Projeto em PDF](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/webMagazine/Magazine.pdf), clique no link.
+
+**Créditos:**
+- Este projeto foi inspirado pelos desafios propostos pelo freeCodeCamp, uma plataforma de aprendizado de programação, e destaca como combinar **HTML** e **CSS** para criar layouts estilizados e responsivos.
+
+
 ## Estudos em Frontend e Web Design
 
 Neste repositório, você encontrará projetos que refletem minhas experiências e estudos na área de frontend e web design. Durante o desenvolvimento desses projetos, aprendi e pratiquei diversas técnicas e conceitos essenciais, incluindo:
