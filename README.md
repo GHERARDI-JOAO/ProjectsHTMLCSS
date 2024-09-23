@@ -58,7 +58,7 @@ Além dos projetos principais, todos os outros trabalhos estão disponíveis nes
 - [Formulário de Registro 📝](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/formulario)
 - [Flexbox Photo Gallery 📸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/PhotoGallery)
 - [Formulário de Pesquisa 📝](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/FormularioPesquisa)
-- [Pintura Rothko 🎨](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/rothko)
+- [Pintura Rothko 🎨](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/rothkoPainting)
 - [Posicionamento CSS: Pintura de Gato 🐱](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/Cat_Painting)
 - [City Skyline 🌆](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/CitySkyline)
 
