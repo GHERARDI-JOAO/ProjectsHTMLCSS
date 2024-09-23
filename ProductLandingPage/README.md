@@ -44,7 +44,7 @@ Por fim, há um formulário de inscrição para que os fãs possam se manter atu
 
 ## Visualização do Projeto
 
-Para ver visualmente como ficou, acesse o arquivo [Terno Rei - Gêmeos.pdf](link-para-o-arquivo) (substitua pelo link real do PDF).
+Para ver visualmente como ficou, acesse o arquivo [Terno Rei - Gêmeos.pdf](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/ProductLandingPage/TERNO%20REI-%20G%C3%8AMEOSS.pdf) 
 
 ## Como Usar
 
