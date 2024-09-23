@@ -10,6 +10,7 @@ Este documento é uma representação do meu plano de aprendizado e do caminho q
 - [Frontend](#frontend)
 - [Backend](#backend)
 - [Tecnologias Citadas](#tecnologias-citadas)
+- [Construção da Página](#construção-da-página)
 
 ## Introdução
 
@@ -44,6 +45,24 @@ No desenvolvimento back-end, o **Node.js** se destacará como uma ferramenta pod
 - **Git**: Controle de versão.
 - **Bootstrap**: Framework para sites responsivos.
 - **Sass**: Pré-processador CSS.
+
+## Construção da Página
+
+A página foi construída utilizando HTML e CSS, com uma estrutura organizada que facilita a leitura e navegação. O uso de seções distintas para cada tópico permite que o conteúdo seja apresentado de forma clara e coerente. 
+
+### Estrutura HTML
+
+- A estrutura base da página é composta por uma `main` que contém todas as seções.
+- Cada seção possui um `header` que destaca o título e um `p` que explica o conteúdo de forma detalhada.
+
+### Estilo CSS
+
+- O CSS aplicado proporciona um design responsivo e visualmente atraente, garantindo que a experiência do usuário seja agradável em diferentes dispositivos.
+- Utilização de classes para estilizar elementos, garantindo uma consistência visual.
+
+### Visualização
+
+Para visualizar a página completa, você pode acessar o PDF gerado: [Technical Documentation.pdf](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/TechnicalDocumentation/Technical%20Documentation.pdf).
 
 ## Conclusão
 
