@@ -56,10 +56,9 @@ Além dos projetos principais, todos os outros trabalhos estão disponíveis nes
 - [Cafe Menu ☕](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/MenuCoffeeHTML_CSS)
 - [Colored Markers 🖍️](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/markersColors)
 - [Formulário de Registro 📝](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/formulario)
-- [Flexbox Photo Gallery 📸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/FlexboxGallery)
+- [Flexbox Photo Gallery 📸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/PhotoGallery)
 - [Formulário de Pesquisa 📝](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/FormularioPesquisa)
 - [Pintura Rothko 🎨](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/rothko)
-- [Flexbox Photo Gallery 📸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/FlexboxGallery)
 - [Posicionamento CSS: Pintura de Gato 🐱](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/Cat_Painting)
 - [City Skyline 🌆](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/CitySkyline)
 
