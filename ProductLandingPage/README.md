@@ -49,12 +49,12 @@ Para ver visualmente como ficou, acesse o arquivo [Terno Rei - Gêmeos.pdf](http
 ## Como Usar
 
 1. **Clone ou baixe o repositório**.
-2. **Abra o arquivo `index.html` em um navegador** para visualizar a landing page.
+2. **Abra o arquivo `landingPage.html` em um navegador** para visualizar a landing page.
 3. **Preencha o formulário** para se inscrever e receber atualizações sobre a banda.
 
 ## Links
 
-- [Repositório do projeto no GitHub](#) (link para o repositório)
+- [Repositório do projeto no GitHub](#) (https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/ProductLandingPage)
 - [Site oficial da banda Terno Rei](https://ternorei.com) (link para o site)
 
 ## Tecnologias Utilizadas
