@@ -14,7 +14,7 @@ Este projeto é uma landing page dedicada ao álbum "Gêmeos" da banda Terno Rei
 
 ---
 
-### 2. [Tribute Page 🎸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/SilverJews)
+### 2. [Tribute Page 🎸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/tributePage)
 
 Este projeto é uma página de tributo à banda Silver Jews. A construção desta página me permitiu explorar layouts responsivos e a importância de um design minimalista que destaca o conteúdo.
 
@@ -34,7 +34,7 @@ Este projeto é uma página no estilo de uma revista digital, com conteúdo inte
 
 ---
 
-### 4. [Technical Documentation Page 📄](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/technicalDocumentation)
+### 4. [Technical Documentation Page 📄](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/TechnicalDocumentation)
 
 Neste projeto, criei uma página de documentação técnica que me ensinou a organizar informações de forma clara e acessível. O uso de seções e uma barra de navegação eficiente melhorou a experiência do usuário.
 
