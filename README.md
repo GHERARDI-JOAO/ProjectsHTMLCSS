@@ -10,7 +10,7 @@ Este projeto é uma landing page dedicada ao álbum "Gêmeos" da banda Terno Rei
 
 - **Aprendizado**: A prática de estruturação de conteúdo, uso de imagens impactantes e aplicação de estilos responsivos.
 
-**Visualização**: Veja o [PDF da Landing Page](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/ProductLandingPage/LandingPage.pdf).
+**Visualização**: Veja o [PDF da Landing Page](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/ProductLandingPage/TERNO%20REI-%20G%C3%8AMEOSS.pdf).
 
 ---
 
@@ -40,7 +40,7 @@ Neste projeto, criei uma página de documentação técnica que me ensinou a org
 
 - **Aprendizado**: Estruturar documentação técnica de maneira eficaz e aplicar estilos que ajudam na navegação.
 
-**Visualização**: Veja o [PDF da Página de Documentação](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/technicalDocumentation/Documentation.pdf).
+**Visualização**: Veja o [PDF da Página de Documentação](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/TechnicalDocumentation/Technical%20Documentation.pdf).
 
 ---
 
