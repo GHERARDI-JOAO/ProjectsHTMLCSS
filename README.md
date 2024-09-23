@@ -257,6 +257,58 @@ Este projeto faz parte de um exercício prático de desenvolvimento web utilizan
 **Créditos:**
 - Este projeto foi inspirado pelos desafios propostos pelo freeCodeCamp, uma plataforma de aprendizado de programação, e destaca como combinar **HTML** e **CSS** para criar layouts estilizados e responsivos.
 
+  Aqui estão os dois READMEs, um para a landing page e outro para a página de documentação técnica, seguindo o formato que você forneceu:
+
+### 11. [Terno Rei - Gêmeos Product Landing Page 🎶](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/ProductLandingPage)
+
+Este projeto faz parte de um exercício prático de desenvolvimento web utilizando **HTML** e **CSS**. O objetivo foi criar uma landing page dedicada ao álbum "Gêmeos" da banda Terno Rei, onde são oferecidas opções de compra do vinil e do CD.
+
+**Funcionalidades:**
+- Criação de uma landing page informativa com seções sobre o álbum, a banda e opções de compra.
+- Implementação de um formulário para inscrição, permitindo que os fãs se mantenham atualizados sobre lançamentos.
+- Navegação fixa para facilitar o acesso às diferentes seções da página.
+- Design responsivo que se adapta a diferentes tamanhos de tela.
+
+**Tecnologias Utilizadas:**
+- **HTML**: Estruturação da página com seções distintas para cada parte do conteúdo.
+- **CSS**: Aplicação de estilo para fontes, cores e layout, garantindo uma apresentação visual atraente e responsiva.
+
+**Como Usar:**
+- Clone ou faça o download deste repositório.
+- Abra o arquivo `landingPage.html` em seu navegador para visualizar a landing page.
+- O arquivo `landingPage.css` contém as regras de estilo que aplicam o design da página.
+
+**Visualização:**
+- Para ver a [Visualização do Projeto em PDF](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/ProductLandingPage/TERNO%20REI-%20G%C3%8AMEOSS.pdf), clique no link.
+
+**Créditos:**
+- Este projeto foi um dos requisitos para a conclusão do certificado de Responsive Web Design da freeCodeCamp e destaca a importância de criar experiências web envolventes e informativas.
+
+### 12. [Technical Documentation Page 📄](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/TechnicalDocumentation)
+
+Este projeto consiste em uma página de documentação técnica desenvolvida utilizando **HTML** e **CSS**. O objetivo foi criar uma página que fornecesse informações claras e organizadas sobre um determinado tema.
+
+**Funcionalidades:**
+- Estrutura clara e organizada com seções que cobrem diferentes aspectos do tema.
+- Navegação lateral para facilitar o acesso às seções da documentação.
+- Uso de estilos para destacar informações importantes e melhorar a legibilidade.
+- Design responsivo que se adapta a diferentes tamanhos de tela.
+
+**Tecnologias Utilizadas:**
+- **HTML**: Estruturação da página com seções e cabeçalhos bem definidos.
+- **CSS**: Aplicação de estilo para cores, fontes e layout, garantindo uma experiência de leitura agradável.
+
+**Como Usar:**
+- Clone ou faça o download deste repositório.
+- Abra o arquivo `documentation.html` em seu navegador para visualizar a página de documentação.
+- O arquivo `documentation.css` contém as regras de estilo que aplicam o design da página.
+
+**Visualização:**
+- Para ver a [Visualização do Projeto em PDF](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/TechnicalDocumentation/Technical%20Documentation.pdf), clique no link.
+
+**Créditos:**
+- Este projeto foi inspirado pelos desafios propostos pelo freeCodeCamp e demonstra a aplicação de **HTML** e **CSS** para criar uma documentação técnica eficaz e acessível.
+
 ## Estudos em Frontend e Web Design
 
 Neste repositório, você encontrará projetos que refletem minhas experiências e estudos na área de frontend e web design. Durante o desenvolvimento desses projetos, aprendi e pratiquei diversas técnicas e conceitos essenciais, incluindo:
