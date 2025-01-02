@@ -4,7 +4,17 @@ Bem-vindo ao repositório **ProjectsHTMLCSS**! Este repositório contém projeto
 
 ## Projetos Principais
 
-### 1. [Landing Page 🎶](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/ProductLandingPage)
+### 1. [BIKCRAFT PROJECT](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/BIKCRAFTLANDING)
+
+O **Bikcraft** é um site responsivo que apresenta bicicletas artesanais de alta qualidade. Desenvolvido com HTML e CSS, o projeto visa promover a **Nimbus Stark**, um modelo exclusivo da marca. A página inclui uma introdução destacando os melhores acessórios do produto, com um botão para mais informações.
+O design da página é limpo e moderno, com uma estrutura de navegação simples e funcional. As vantagens das bicicletas Bikcraft são apresentadas em uma seção com destaque para o motor elétrico, a velocidade de 40 km/h e o rastreador, oferecendo uma visão clara dos diferenciais do produto.
+O site é otimizado para diferentes dispositivos, com uma experiência visualmente agradável e transições suaves nos elementos interativos..
+
+**Visualização**: Veja o [PNG da BIKCRAFT ](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/BIKCRAFTLANDING/Bikcraft.png).
+
+---
+
+### 2. [Landing Page 🎶](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/ProductLandingPage)
 
 Este projeto é uma landing page dedicada ao álbum "Gêmeos" da banda Terno Rei. A criação deste site me ensinou a importância de um design focado em conversão, utilizando seções informativas e botões chamativos para direcionar a ação do usuário.
 
@@ -14,7 +24,7 @@ Este projeto é uma landing page dedicada ao álbum "Gêmeos" da banda Terno Rei
 
 ---
 
-### 2. [Tribute Page 🎸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/tributePage)
+### 3. [Tribute Page 🎸](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/tributePage)
 
 Este projeto é uma página de tributo à banda Silver Jews. A construção desta página me permitiu explorar layouts responsivos e a importância de um design minimalista que destaca o conteúdo.
 
@@ -24,23 +34,13 @@ Este projeto é uma página de tributo à banda Silver Jews. A construção dest
 
 ---
 
-### 3. [Web Magazine 📰](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/webMagazine)
+### 4. [Web Magazine 📰](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/webMagazine)
 
 Este projeto é uma página no estilo de uma revista digital, com conteúdo interativo. Aprendi a combinar HTML e CSS para criar um layout responsivo que se adapta a diferentes tamanhos de tela.
 
 - **Aprendizado**: Uso de fontes customizadas, otimização de imagens e implementação de layouts responsivos.
 
 **Visualização**: Veja a [Visualização do Projeto em PDF](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/webMagazine/Magazine.pdf).
-
----
-
-### 4. [Technical Documentation Page 📄](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/tree/main/TechnicalDocumentation)
-
-Neste projeto, criei uma página de documentação técnica que me ensinou a organizar informações de forma clara e acessível. O uso de seções e uma barra de navegação eficiente melhorou a experiência do usuário.
-
-- **Aprendizado**: Estruturar documentação técnica de maneira eficaz e aplicar estilos que ajudam na navegação.
-
-**Visualização**: Veja o [PDF da Página de Documentação](https://github.com/GHERARDI-JOAO/ProjectsHTMLCSS/blob/main/TechnicalDocumentation/Technical%20Documentation.pdf).
 
 ---
 
